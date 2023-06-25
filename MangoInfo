@@ -1,0 +1,144 @@
+<DOCTYPE! html>
+<html>
+    <head>
+    <style>
+        body {background-color:bisque;min-width 300px; max-width 800px; margin-top: 0px; margin-left: auto; margin-right: auto; width: 100%;}
+        h1 {color:darkslategrey; "font-family:sans-serif"; text-align: center}
+        h2 {color: darkblue;
+        font-family:cursive; text-align: left; transform: translateY(-5px);}
+        img {border-radius: 3%;
+        border: 5px solid #ffffff}
+        h6 {font-family:sans-serif}
+        .center { display: block;
+        margin-left: auto;
+        margin-right: auto;}
+        .content { margin: auto;} 
+        blockquote { padding-bottom: 50px; padding-left: 15px; padding-top: 5px; 
+        background-color:white;
+        border-bottom-left-radius:10px;
+        margin: 50px; height: 20px; margin-right: 15px; transform: translateY(15px);}
+        .content { margin-left: 5%;
+        margin-right: 5%;}
+        header { position:absolute; top: 0; left: 0; right: 0; height: 50px; background-color: white; display: flex;}
+        header* { height: 80px;}
+        p { margin-left: auto; margin-right: auto;}
+        .menutext { margin-left: 20px; font-family: sans-serif; position: absolute; z-index: 1; font-size: 22px; padding-top: 15px; padding-left: 30px; }
+    </style>
+        <title> Trivia for Mangoes </title>
+    </head> 
+  
+    <div id ="header">
+        <header> </header>
+    </div>
+    <div class = "menutext">
+        <p1> Menu </p1> 
+    </div>
+    
+<body>
+    
+    <div class = "content">
+<br>
+<br>
+        
+
+        <div id= "Beginning"></div>
+
+<br>
+<h6> Written by Shamilah Nicholson, 4/2023</h6>
+<br>
+
+<h1> Trivia for Mangoes </h1>
+    <img src ="https://snaped.fns.usda.gov/sites/default/files/styles/crop_ratio_7_5/public/seasonal-produce/2018-05/mango.jpg?itok=KiyDzhWy" width="500" class ="center"/>
+        
+
+
+<br>
+<br>
+    <div id= "Body"></div>
+
+        <blockquote><h2> About Mangoes</h2></blockquote>
+        
+    
+    <p1><p style = "text-align: center"> <p style = "font-family:sans-serif"> Mangoes are a popular fruit choice. Be it smoothies, fruit bowls or even dried slices, there are a variety of ways they can be served and eaten.
+        <br>But first, there's a little more about mangoes to learn.</p1>
+        <br>
+        <br>
+    <p2><p style = "font-family: sans-serif">
+    <ul>
+        <li> <p1> <p style = "font-family:sans-serif"> <strong>Health Benefits:</strong> Mangoes are rich in vitamins and minerals like many fruits, but mangoes in particular are abundant in vitamin C and K. </p1> </li>
+        <br>
+       <li>  <p1> <p style = "font-family:sans-serif">  <strong> History:</strong> Mangoes originate from India, dating back at least 5,000 years. Having been transported from Asia to East Africa and even as far as South America, there are a wide varieties of species to choose from depending on the region.</p1></li>
+        <br>
+       <li> <p1> <p style = "font-family:sans-serif"> <strong>Species:</strong> Speaking of species, some to be named are the <em>Graham Mango</em>, <em>Kesar Mango</em> and <em>Dasheri Mango</em>. These all vary in taste, size and properties. <em>Graham</em> is sweet and most enjoyable when fresh, <em>Kesar</em> is large, round and does not need pollination to fruit and <em>Dasheri</em> is also large but is particular notable in quality and flavor.</p1> </li>
+    </ul>
+        </p2>
+    <br>
+    <br>
+        <blockquote><h2>Where To Find Mangoes</h2></blockquote>
+        
+    <p1> <p style = "text-align: center"> <p style = "font-family:sans-serif"> Mangoes are generally found occuring naturally in tropical areas such as the Caribbean and a majority of South America and Asia. Aside from non-commercially produced flora, mangoes can also be found in grocery stores or sold by streetside vendors and flea markets. It is one of many widely imported fruits and it's availability in stores can vary depending on geographical loation. </p1>
+        <br>
+        <br>
+        
+        <blockquote><h2> Recipe Ideas For Mangoes </h2></blockquote>
+        
+        <p1> <p style = "text-align: center"> <p style = "font-family:sans-serif"> Mangoes are delectable treat to have at any time, especially in the summer with lots of sunny days and summertime activities rolling around. It's only natural to pair the atmosphere with some delicious treats to fuel the fun.</p1>
+    <br>
+        <p2>Here are some great ideas for treats to make with mangoes.
+            <br>
+            <br>
+            (More details on the recipe are available by clicking on the titles):</p2>
+                <h3><a href = "https://www.joyousapron.com/mango-crumb-bars/" target = "blank">Mango Crumb Bars</a></h3>
+            <img src = "https://thealmondeater.com/wp-content/uploads/2020/08/Mango-Crumb-Bars-10-16.jpg.webp"  alt = "Mango Crumble bars with diced mangoes" width="300" class = "center"/>
+            <br>
+            <br>
+        <p3> <p style = "text-align: center"> <p style = "font-family:sans-serif"> <strong>Mango crumb bars</strong> are a yummy treat that are perfect to share for gatherings and events. Bite-sized and still enough to entertain a sweet tooth. It's a recipe that consists of ripe mangoes, flour, butter and eggs. It's perfect for snacking on the go or having a light pastry to eat.</p3>
+            <br>
+            <br>
+                <h3><a href = "https://downshiftology.com/recipes/mango-smoothie/" target = "blank">Mango Smoothie</a></h3>
+            <img src ="https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2018/08/Mango-Smoothie-4-2.jpg" alt = "Mango Smoothie In Mason Jar with handle and Metal Straw" width="300" class = "center"/>
+            <br>
+            <br>
+        <p4> <p style = "text-align: center"> <p style = "font-family:sans-serif"> As it's a warmer time in the summer, it's only fitting to also have a mango-flavored refreshing drink to cool down on those extra sunny days. No need to look further than going for a cool and chilly <strong>Mango Smoothie</strong>. All it takes is just mangoes, bananas, yogurt and some milk. Simple but delicious all the same.</p4>
+            <br>
+            <br>
+            
+            <div id = "Wrap"></div>
+    
+        <blockquote><h2>Wrapping Up</h2></blockquote>
+        
+    <p1><p style = "text-align: center"> <p style = "font-family:sans-serif"> Mangoes are the delectable fruit that have a range of benefits and unique perks to them. It's all good reason to try and get a bowl or two of diced mangoes to be a snack that powers your day a little further. They also have a great association with tropical places, thanks to them being where they love to grow. As a result, they also bring to mind loads of fun places to visit and explore like islands and beaches. So for an upcoming vacation, it's a great idea to throw in some mango delicacies or two to add to that sun, surf and sand's fun atmosphere and get a good serving of mango in your day.</p1>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <img src = "https://static.vecteezy.com/system/resources/previews/001/937/258/original/mango-fruit-free-vector.jpg" alt = "mango" width = "150" class = "center"/>
+    
+ <br>
+    
+    <footer>
+        
+        <p1> <p style = "font-family:sans-serif">
+            <h5>References</h5>
+        <br>
+        <br>
+            <ul>
+                <li><a href = "https://www.webmd.com/diet/health-benefits-mango">WebMD - Health Benefits Mango</a></li>
+                <br>
+                <li><a href ="https://www.mango.org/mango-facts/#:~:text=Where%20do%20mangos%20come%20from,around%20300%20or%20400%20A.D.&text=A%20ripe%20mango%20is%20known,sugar%20acid%20ratio%20of%2028.">Mango Facts</a></li>
+                <br>
+                <li><a href = "https://naturallist.com/mango-trees/"> Naturallist</a></li>
+                <br>
+                <li><a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fthealmondeater.com%2Feasy-mango-crumb-bars%2F&psig=AOvVaw3XYgvBp65KkmZRmk7B1mJ1&ust=1682527014597000&source=images&cd=vfe&ved=0CAQQjB1qFwoTCKCs4tq7xf4CFQAAAAAdAAAAABAE"> The Almond Eater</a></li>
+                <br>
+                <li><a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsnaped.fns.usda.gov%2Fseasonal-produce-guide%2Fmangos&psig=AOvVaw29nzsNnsDnduue4dzQiphb&ust=1682523846113000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIikxZ28xf4CFQAAAAAdAAAAABAE"> SNAP-Ed-Connection USDA</a></li>
+            </ul>
+        </p1>
+                
+            </footer>
+    </div>
+    </body>
+    
+  
+</html>
